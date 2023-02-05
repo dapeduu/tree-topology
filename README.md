@@ -19,7 +19,7 @@ Para testar se está tudo funcionando tente dar o ping entre um host e outro: `h
 
 A figura a seguir representa a topologia a ser criada.
 
-![Topologia em árvore](./docs/tree-topo.png)
+![Topologia em árvore](docs/tree-topo.png)
 
 A rede deve seguir as seguintes regras:
 - A rede é um domínio autônomo, com uma única classe de rede.
