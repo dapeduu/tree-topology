@@ -7,7 +7,8 @@ Esse projeto é o segundo e ultimo trabalho da matéria Redes de Computadores da
 Para o usar o projeto você deve:
 1. Instalar o mininet. Segue o link para o [download](http://mininet.org/download/).
 2. Clonar o repositório `git clone https://github.com/dapeduu/tree-topology.git`
-3. Rodar o projeto `python ./src/main.py`
+3. Rodar o controller remoto pox: `sudo ~/pox/pox.py forwarding.l2_pairs info.packet_dump samples.pretty_log log.level --DEBUG`
+4. Rodar o projeto `python ./src/main.py`
 
 Os passos acima vão te deixar na CLI do mininet.
 
